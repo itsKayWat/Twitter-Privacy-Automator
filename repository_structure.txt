@@ -1,0 +1,14 @@
+Twitter-Privacy-Automator/
+│
+├── Twitter-private.py       # Main script
+├── requirements.py         # Requirements installer
+├── README.md              # Repository documentation
+├── README.html           # HTML documentation
+├── README.txt            # Text documentation
+├── LICENSE              # MIT License
+│
+├── docs/                # Documentation directory
+│   ├── images/         # Screenshots and images
+│   └── examples/       # Usage examples
+│
+└── .gitignore          # Git ignore file
